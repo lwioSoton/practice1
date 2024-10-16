@@ -3,3 +3,12 @@ body {
     color: maroon;
     font-family: 'Arial';
 }
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+li  { 
+    color:navy;
+}
